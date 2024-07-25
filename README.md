@@ -1,16 +1,29 @@
-## Hi there 👋
+# Violeta Petrović - Junior QA Extraordinaire
 
-<!--
-**leaviki90/leaviki90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello World!
 
-Here are some ideas to get you started:
+I'm Violeta, a budding Junior QA Specialist with a knack for finding bugs and making developers (slightly) annoyed, but happier in the long run! 🎉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Do
+
+- **Bug Hunting**: Finding those pesky bugs that hide in the shadows.
+- **Test Case Writing**: Crafting test cases like a pro.
+- **Automation Testing**: Making sure everything runs smoothly, even when I'm asleep.
+
+## 🛠 Tools of the Trade
+
+- **Manual Testing**: Because nothing beats a human touch.
+- **Automation with Playwright**: Automating all the things.
+- **API Testing with Postman**: APIs don’t scare me.
+- **Jenkins**: Basic CI/CD knowledge to keep things flowing.
+- **SQL**: Querying databases like it’s nobody’s business.
+
+## 📝 A Taste of My Work
+
+- [Link to Test Cases](TestCases/AllTestCases.md)
+- [Link to Bug Reports](BugReports/AllBugs.md)
+- [Link to Automation Scripts](tests)
+
+## 💬 Let's Connect!
+
+Find me on [LinkedIn](#) or drop me an [email](mailto:your.email@example.com). I promise to reply faster than a flaky test script! 😄
