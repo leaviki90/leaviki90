@@ -27,4 +27,4 @@ I'm Violeta, a budding Junior QA Specialist with a knack for finding bugs and ma
 ## 💬 Let's Connect!
 
 Find me on [LinkedIn](https://www.linkedin.com/in/violeta-petrovic/) or drop me an [email](mailto:kjuerka90@gmail.com). I promise to reply faster than a flaky test script! 😄
-Counter ![Counter](https://eo2f3qmh8b2183w.m.pipedream.net)
+
