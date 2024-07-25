@@ -20,10 +20,10 @@ I'm Violeta, a budding Junior QA Specialist with a knack for finding bugs and ma
 
 ## 📝 A Taste of My Work
 
-- [Link to Test Cases](TestCases/AllTestCases.md)
-- [Link to Bug Reports](BugReports/AllBugs.md)
-- [Link to Automation Scripts](tests)
+- [Link to Test Cases](https://github.com/leaviki90/QA-Portfolio/blob/main/TestCases/AllTestCases.md)
+- [Link to Bug Reports](https://github.com/leaviki90/QA-Portfolio/blob/main/BugReports/AllBugs.md)
+- [Link to Automation Scripts](https://github.com/leaviki90/PlaywrightExercise/tree/main/tests)
 
 ## 💬 Let's Connect!
 
-Find me on [LinkedIn](#) or drop me an [email](mailto:your.email@example.com). I promise to reply faster than a flaky test script! 😄
+Find me on [LinkedIn](https://www.linkedin.com/in/violeta-petrovic/) or drop me an [email](mailto:kjuerka90@gmail.com). I promise to reply faster than a flaky test script! 😄
