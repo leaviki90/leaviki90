@@ -1,4 +1,4 @@
-# Violeta Petrović - Junior QA Extraordinaire
+# Violeta Petrović - QA Extraordinaire
 
 ## 👋 Hello World!
 
