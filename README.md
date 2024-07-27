@@ -2,7 +2,7 @@
 
 ## 👋 Hello World!
 
-I'm Violeta, a budding Junior QA Specialist with a knack for finding bugs and making developers (slightly) annoyed, but happier in the long run! 🎉
+I'm Violeta, a budding QA Specialist with a knack for finding bugs and making developers (slightly) annoyed, but happier in the long run! 🎉
 
 ## 🔍 What I Do
 
