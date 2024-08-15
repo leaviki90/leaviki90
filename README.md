@@ -13,7 +13,7 @@ I'm Violeta, a budding QA Specialist with a knack for finding bugs and making de
 ## 🛠 Tools of the Trade
 
 - **Manual Testing**: Because nothing beats a human touch.
-- **Automation with Playwright**: Automating all the things.
+- **Automation with Playwright and Cypress**: Automating all the things.
 - **API Testing with Postman**: APIs don’t scare me.
 - **Jenkins**: Basic CI/CD knowledge to keep things flowing.
 - **SQL**: Querying databases like it’s nobody’s business.
@@ -22,7 +22,7 @@ I'm Violeta, a budding QA Specialist with a knack for finding bugs and making de
 
 - [Link to Test Cases](https://github.com/leaviki90/QA-Portfolio/blob/main/TestCases/AllTestCases.md)
 - [Link to Bug Reports](https://github.com/leaviki90/QA-Portfolio/blob/main/BugReports/AllBugs.md)
-- [Link to Automation Scripts](https://github.com/leaviki90/PlaywrightExercise/tree/main/tests)
+- [Link to Automation Scripts](https://github.com/leaviki90/cypress-automation-framework/tree/main/cypress/e2e)
 
 ## 💬 Let's Connect!
 
