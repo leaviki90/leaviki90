@@ -18,8 +18,6 @@ I'm Violeta, a budding QA Engineer with a knack for finding bugs and making deve
 - **Jenkins**: Basic CI/CD knowledge to keep things flowing.
 - **SQL**: Querying databases like it’s nobody’s business.
 
-
-
 ## 📝 A Taste of My Work
 
 - [Link to Test Cases](https://github.com/leaviki90/QA-Portfolio/blob/main/TestCases/AllTestCases.md)
