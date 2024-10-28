@@ -18,7 +18,7 @@ I'm Violeta, a budding QA Engineer with a knack for finding bugs and making deve
 - **Jenkins**: Basic CI/CD knowledge to keep things flowing.
 - **SQL**: Querying databases like it’s nobody’s business.
 
-![Snake animation](https://raw.githubusercontent.com/{leaviki90}/{leaviki90}/output/github-contribution-grid-snake-dark.svg)
+
 
 ## 📝 A Taste of My Work
 
