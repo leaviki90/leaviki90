@@ -24,7 +24,6 @@ I'm Violeta, a budding QA Engineer with a knack for finding bugs and making deve
 - [Link to Bug Reports](https://github.com/leaviki90/QA-Portfolio/blob/main/BugReports/AllBugs.md)
 - [Link to Automation Scripts](https://github.com/leaviki90/cypress-automation-framework/tree/main/cypress/e2e)
 
-![snake gif](https://github.com/leaviki90/leaviki90/blob/output/github-contribution-grid-snake.svg)
 
 ## 💬 Let's Connect!
 
